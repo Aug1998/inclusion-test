@@ -1,14 +1,13 @@
-import './App.css';
 import GlobalCSS from './styled-components/global.css'
 import Header from './components/header';
-import Body from './components/body';
+import StatusDashboard from './pages/StatusDashboard';
 
 function App() {
   return (
      <>
       <GlobalCSS/>
       <Header></Header>
-      <Body></Body>
+      <StatusDashboard></StatusDashboard>
      </>
   );
 }

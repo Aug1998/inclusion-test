@@ -45,8 +45,5 @@ export default function useStatus(entity:string) {
       }, RELOAD_TIME_IN_MILISECONDS);
    }, []);
 
-      
-
    return status;
-
 }
