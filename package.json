@@ -1,5 +1,6 @@
 {
-  "name": "xometry",
+   "homepage":"https://aug1998.github.io/xometry-test/",
+   "name": "xometry",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,6 +12,7 @@
     "@types/react": "^17.0.41",
     "@types/react-dom": "^17.0.14",
     "axios": "^0.26.1",
+    "gh-pages": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-query": "^3.34.16",
