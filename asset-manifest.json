@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xometry-test/static/css/main.073c9b0a.css",
+    "main.js": "/xometry-test/static/js/main.085383e6.js",
+    "static/js/787.f40fa421.chunk.js": "/xometry-test/static/js/787.f40fa421.chunk.js",
+    "index.html": "/xometry-test/index.html",
+    "main.073c9b0a.css.map": "/xometry-test/static/css/main.073c9b0a.css.map",
+    "main.085383e6.js.map": "/xometry-test/static/js/main.085383e6.js.map",
+    "787.f40fa421.chunk.js.map": "/xometry-test/static/js/787.f40fa421.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.085383e6.js"
+  ]
+}
