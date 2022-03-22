@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/xometry-test/static/js/main.91b8de1d.js",
-    "index.html": "/xometry-test/index.html",
-    "main.91b8de1d.js.map": "/xometry-test/static/js/main.91b8de1d.js.map"
+    "main.js": "/inclusion-test/static/js/main.ceb309c9.js",
+    "index.html": "/inclusion-test/index.html",
+    "main.ceb309c9.js.map": "/inclusion-test/static/js/main.ceb309c9.js.map"
   },
   "entrypoints": [
-    "static/js/main.91b8de1d.js"
+    "static/js/main.ceb309c9.js"
   ]
 }
